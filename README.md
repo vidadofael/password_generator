@@ -1,36 +1,36 @@
 <h1>Descrição do Projeto: Gerador de Senhas Personalizadas</h1>
 
-Objetivo:
-O objetivo deste projeto é criar uma ferramenta simples e eficiente em JavaScript para gerar senhas personalizadas, permitindo aos usuários criar senhas seguras com diferentes requisitos, como comprimento variável, inclusão de letras, números e caracteres especiais, além da opção de escolher entre maiúsculas e minúsculas.
+Goal:
+The objective of this project is to create a simple and efficient JavaScript tool to generate personalized passwords, allowing users to create secure passwords with different requirements, such as variable length, inclusion of letters, numbers and special characters, as well as the option to choose between upper and lower case. .
 
-Recursos Principais:
+Key Features:
 
-Interface Gráfica Intuitiva:
+Intuitive Graphical Interface:
 
-Desenvolver uma interface amigável para facilitar a interação do usuário.
-Incluir controles, como caixas de seleção para escolher tipos de caracteres, um campo de entrada para o comprimento da senha e botões interativos.
-Geração de Senhas Aleatórias:
+Develop a user-friendly interface to facilitate user interaction.
+Include controls such as check boxes for choosing character types, an input field for password length, and interactive buttons.
+Random Password Generation:
 
-Implementar uma função JavaScript para gerar senhas aleatórias com base nos requisitos fornecidos pelo usuário.
-Utilizar lógica para criar senhas com combinações seguras de letras, números e caracteres especiais.
-Opção de Copiar para Área de Transferência:
+Implement a JavaScript function to generate random passwords based on user-supplied requirements.
+Use logic to create passwords with secure combinations of letters, numbers and special characters.
+Copy to Clipboard Option:
 
-Incorporar funcionalidade para permitir que os usuários copiem facilmente as senhas geradas para a área de transferência.
-Utilizar a API de Clipboard para uma experiência de usuário suave.
-Personalização Avançada:
+Incorporate functionality to allow users to easily copy generated passwords to the clipboard.
+Utilize the Clipboard API for a smooth user experience.
+Advanced Customization:
 
-Oferecer opções avançadas, como escolher entre letras maiúsculas e minúsculas, para atender às preferências específicas do usuário.
-Estilo Responsivo:
+Offer advanced options, such as choosing between uppercase and lowercase letters, to suit specific user preferences.
+Responsive Style:
 
-Garantir que a interface seja responsiva, adaptando-se a diferentes tamanhos de tela e dispositivos para uma experiência consistente em todas as plataformas.
-Implementação:
+Ensure the interface is responsive, adapting to different screen sizes and devices for a consistent experience across platforms.
+Implementation:
 
-Utilizar HTML para a estrutura da página, CSS para o estilo e JavaScript para a lógica de geração de senhas e manipulação de eventos.
+Use HTML for page structure, CSS for styling and JavaScript for password generation and event handling logic.
 
-Organizar o código em funções modulares para facilitar a manutenção e compreensão.
+Organize code into modular functions for easier maintenance and understanding.
 
-Incorporar feedback visual para informar aos usuários sobre o sucesso na geração e cópia de senhas.
+Incorporate visual feedback to inform users of success in generating and copying passwords.
 
-Resultados Esperados:
+Expected results:
 
-Espera-se um gerador de senhas interativo e robusto que ofereça aos usuários a flexibilidade de criar senhas seguras e personalizadas de maneira fácil e eficiente. O projeto visa proporcionar uma experiência amigável e útil, incentivando a adoção de práticas de segurança digital entre os usuários.
+Expect an interactive and robust password generator that offers users the flexibility to create secure and personalized passwords easily and efficiently. The project aims to provide a friendly and useful experience, encouraging the adoption of digital security practices among users.
