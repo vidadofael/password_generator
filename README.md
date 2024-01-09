@@ -1,4 +1,4 @@
-Descrição do Projeto: Gerador de Senhas Personalizadas
+<h1>Descrição do Projeto: Gerador de Senhas Personalizadas</h1>
 
 Objetivo:
 O objetivo deste projeto é criar uma ferramenta simples e eficiente em JavaScript para gerar senhas personalizadas, permitindo aos usuários criar senhas seguras com diferentes requisitos, como comprimento variável, inclusão de letras, números e caracteres especiais, além da opção de escolher entre maiúsculas e minúsculas.
